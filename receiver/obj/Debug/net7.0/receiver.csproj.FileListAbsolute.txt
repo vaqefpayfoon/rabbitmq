@@ -1,0 +1,17 @@
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\receiver.csproj.AssemblyReference.cache
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\receiver.AssemblyInfoInputs.cache
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\receiver.AssemblyInfo.cs
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\receiver.csproj.CoreCompileInputs.cache
+C:\dotnet\rabbitmq\receiver\bin\Debug\net7.0\receiver.exe
+C:\dotnet\rabbitmq\receiver\bin\Debug\net7.0\receiver.deps.json
+C:\dotnet\rabbitmq\receiver\bin\Debug\net7.0\receiver.runtimeconfig.json
+C:\dotnet\rabbitmq\receiver\bin\Debug\net7.0\receiver.dll
+C:\dotnet\rabbitmq\receiver\bin\Debug\net7.0\receiver.pdb
+C:\dotnet\rabbitmq\receiver\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\receiver.csproj.CopyComplete
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\receiver.dll
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\refint\receiver.dll
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\receiver.pdb
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\receiver.genruntimeconfig.cache
+C:\dotnet\rabbitmq\receiver\obj\Debug\net7.0\ref\receiver.dll
